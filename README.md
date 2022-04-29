@@ -21,7 +21,7 @@ The fourth module of course "Introduction to Java" DONE
 [![D69DE792-F7F4-4BC9-9E51-9C4B95B40E5D_1_201_a](https://user-images.githubusercontent.com/97191466/165980618-edf1a06f-7898-4b3d-bad8-746db845d344.jpeg)
 ](https://github.com/DariaTur/4_Programming_with_classes/tree/master/task6/src/by/epam/training/module4)
 ---------------------------------------------------------------------------------------------------------------------------------
-[![D69DE792-F7F4-4BC9-9E51-9C4B95B40E5D_1_201_a](https://user-images.githubusercontent.com/97191466/165980628-9485cca0-0f52-4342-8f47-d2ea1f1c1daf.jpeg)
+[![5934A828-31C1-4710-8430-FF6611A9B161_1_201_a](https://user-images.githubusercontent.com/97191466/165981496-d9215935-27bf-4596-ad59-4ffcb6e494cd.jpeg)
 ](https://github.com/DariaTur/4_Programming_with_classes/tree/master/task7/src/by/epam/training/module4)
 ---------------------------------------------------------------------------------------------------------------------------------
 [![FA4138EA-2884-4077-8CE9-3374BB9D761D_1_201_a](https://user-images.githubusercontent.com/97191466/165980658-e28bf172-16ce-47e8-86df-3c41f84959d7.jpeg)
